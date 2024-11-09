@@ -1,0 +1,33 @@
+"Message","Id","Version","Qualifiers","Level","Task","Opcode","Keywords","RecordId","ProviderName","ProviderId","LogName","ProcessId","ThreadId","MachineName","UserId","TimeCreated","ActivityId","RelatedActivityId","ContainerLog","MatchedQueryIds","Bookmark","LevelDisplayName","OpcodeDisplayName","TaskDisplayName","KeywordsDisplayNames","Properties"
+"The start type of the McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability)) service was changed from demand start to disabled.","7040","0","16384","4","0","0","-9187343239835811840","39033","Service Control Manager","555908d1-a6d7-4695-8e1e-26931d2012f4","System","1188","11068","LAPTOP-TAUCKSQI","S-1-5-18","11/8/2024 9:13:56 PM",,,"System","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information",,,"System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"A service was installed in the system.
+
+Service Name:  McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Service File Name:  ""C:\Program Files\McAfee\wps\1.22.203.1\sustainability\mc-sustainability.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem","7045","0","16384","4","0","0","-9187343239835811840","39032","Service Control Manager","555908d1-a6d7-4695-8e1e-26931d2012f4","System","1188","11068","LAPTOP-TAUCKSQI","S-1-5-18","11/8/2024 9:13:55 PM",,,"System","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information",,,"System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"The system session has transitioned from 1651 to 1653.
+
+Reason InputHid 
+
+BootId: 30","566","0",,"4","268","0","-9223372036854774268","39031","Microsoft-Windows-Kernel-Power","331c3b3a-2005-44c2-ac5e-77220c37d6b4","System","4","41572","LAPTOP-TAUCKSQI","S-1-5-18","11/8/2024 9:06:13 PM",,,"System","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Info",,"System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"The system session has transitioned from 1650 to 1651.
+
+Reason SessionUnlock 
+
+BootId: 30","566","0",,"4","268","0","-9223372036854774268","39030","Microsoft-Windows-Kernel-Power","331c3b3a-2005-44c2-ac5e-77220c37d6b4","System","4","2260","LAPTOP-TAUCKSQI","S-1-5-18","11/8/2024 9:06:08 PM",,,"System","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Info",,"System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"The access history in hive \??\C:\Users\devin\AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\SystemAppData\Helium\UserClasses.dat was cleared updating 12 keys and creating 2 modified pages.","16","0",,"4","0","0","-9223372036854775808","39029","Microsoft-Windows-Kernel-General","a68ca8b7-004f-d7b6-a698-07e2de0f1f5d","System","12552","20152","LAPTOP-TAUCKSQI","S-1-5-18","11/8/2024 8:16:27 PM",,,"System","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Info",,"System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"The access history in hive \??\C:\Users\devin\AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\SystemAppData\Helium\User.dat was cleared updating 10 keys and creating 1 modified pages.","16","0",,"4","0","0","-9223372036854775808","39028","Microsoft-Windows-Kernel-General","a68ca8b7-004f-d7b6-a698-07e2de0f1f5d","System","12552","20152","LAPTOP-TAUCKSQI","S-1-5-18","11/8/2024 8:16:27 PM",,,"System","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Info",,"System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"The system session has transitioned from 1648 to 1650.
+
+Reason InputHid 
+
+BootId: 30","566","0",,"4","268","0","-9223372036854774268","39027","Microsoft-Windows-Kernel-Power","331c3b3a-2005-44c2-ac5e-77220c37d6b4","System","4","24080","LAPTOP-TAUCKSQI","S-1-5-18","11/8/2024 7:17:00 PM",,,"System","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Info",,"System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"The system session has transitioned from 1647 to 1648.
+
+Reason SessionUnlock 
+
+BootId: 30","566","0",,"4","268","0","-9223372036854774268","39026","Microsoft-Windows-Kernel-Power","331c3b3a-2005-44c2-ac5e-77220c37d6b4","System","4","20496","LAPTOP-TAUCKSQI","S-1-5-18","11/8/2024 7:16:52 PM",,,"System","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Info",,"System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"The oldest shadow copy of volume C: was deleted to keep disk space usage for shadow copies of volume C: below the user defined limit.","33","0","16390","4","0","0","36028797018963968","39025","Volsnap","cb017cd2-1f37-4e65-82bc-3e91f6a37559","System","4","32780","LAPTOP-TAUCKSQI",,"11/8/2024 6:22:28 PM",,,"System","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information",,,"System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"The oldest shadow copy of volume C: was deleted to keep disk space usage for shadow copies of volume C: below the user defined limit.","33","0","16390","4","0","0","36028797018963968","39024","Volsnap","cb017cd2-1f37-4e65-82bc-3e91f6a37559","System","4","4552","LAPTOP-TAUCKSQI",,"11/8/2024 6:22:28 PM",,,"System","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information",,,"System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
